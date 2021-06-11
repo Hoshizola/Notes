@@ -148,6 +148,12 @@ git pull 远程仓库名/远程分支名
 备注：pull相当于fetch+merge。fetch是从远程仓库拉取下来，但没有下载到本地，merge是将远程仓库合并到本地
 ```
 
+让`Git`忽略`SSL`证书认证
+
+```tex
+git config --global http.sslVerify 'false'
+```
+
 
 
 
