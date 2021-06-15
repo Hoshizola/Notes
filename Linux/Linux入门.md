@@ -234,7 +234,7 @@
   - **时间**
   - **名称**
 
-![image-20210615104713908](C:\Users\nobod\AppData\Roaming\Typora\typora-user-images\image-20210615104713908.png)
+![image-20210615104713908](./image-20210615104713908.png)
 
 #### 1.4 chmod简单使用
 
